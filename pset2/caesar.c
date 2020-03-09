@@ -1,3 +1,6 @@
+//Implements caesar cipher
+//Usage: ./caesar key
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
