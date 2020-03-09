@@ -1,3 +1,6 @@
+# Censors string input using list of restricted strings
+# Usage: speller [dictionary] text
+
 from cs50 import get_string
 import sys
 from sys import argv
