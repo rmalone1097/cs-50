@@ -1,4 +1,5 @@
 // Implements a spell-checker
+// Usage: speller [dictionary] text
 
 #include <ctype.h>
 #include <stdio.h>
