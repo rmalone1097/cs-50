@@ -1,4 +1,5 @@
-// Copies a BMP file
+// Resizes image by scale factor n
+//Usage: ./resize n infile outfile
 
 #include <stdio.h>
 #include <stdlib.h>
