@@ -1,4 +1,4 @@
-// Implements a dictionary's functionality
+// Implements a dictionary's functionality using trie structure
 
 #include <stdbool.h>
 #include <stdio.h>
