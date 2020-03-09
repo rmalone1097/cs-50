@@ -1,3 +1,6 @@
+//Recovers JPG image from corrupted file
+//Usage: ./recover image
+
 #include <stdio.h>
 #include <stdlib.h>
 
