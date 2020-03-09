@@ -1,3 +1,6 @@
+# Implements caesar cipher
+# Usage: python caesar.py n
+
 import sys
 from cs50 import get_string
 
