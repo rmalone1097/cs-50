@@ -1,3 +1,5 @@
+#Inputs credit card number, outputs type of card (Visa, Amex, Mastercard)
+
 #include <cs50.h>
 #include <stdio.h>
 
